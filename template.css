@@ -1,0 +1,24 @@
+/*
+ *Name: [Lizzie Clanton]
+ *UnityID: [ehclanto]
+ *Date: [11/20/2026]
+ *Assignment: [Website Assignment 1]
+ *Description: [Assignment Description]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px
+    color: #DECAFF;
+
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+
+}
+
+#photo-resize {
+    max-width:250px;
+    max-height: 300px;
+}
